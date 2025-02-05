@@ -28,3 +28,5 @@ index.html              # Main entry point for the dashboard
 2. Use the dropdown menu to select different Test Subject IDs.  
 3. Observe the charts and demographic info updating dynamically.  
 Use RESET Button for starting from 940 every time.
+## Live Deployment
+👉 [View the Project Here](https://DuBra01.github.io/belly-button-challenge/)
